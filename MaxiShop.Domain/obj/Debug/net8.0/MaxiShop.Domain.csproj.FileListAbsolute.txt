@@ -1,0 +1,11 @@
+C:\Users\janik\source\repos\maxishop\MaxiShop.Domain\bin\Debug\net8.0\MaxiShop.Domain.deps.json
+C:\Users\janik\source\repos\maxishop\MaxiShop.Domain\bin\Debug\net8.0\MaxiShop.Domain.dll
+C:\Users\janik\source\repos\maxishop\MaxiShop.Domain\bin\Debug\net8.0\MaxiShop.Domain.pdb
+C:\Users\janik\source\repos\maxishop\MaxiShop.Domain\obj\Debug\net8.0\MaxiShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janik\source\repos\maxishop\MaxiShop.Domain\obj\Debug\net8.0\MaxiShop.Domain.AssemblyInfoInputs.cache
+C:\Users\janik\source\repos\maxishop\MaxiShop.Domain\obj\Debug\net8.0\MaxiShop.Domain.AssemblyInfo.cs
+C:\Users\janik\source\repos\maxishop\MaxiShop.Domain\obj\Debug\net8.0\MaxiShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\janik\source\repos\maxishop\MaxiShop.Domain\obj\Debug\net8.0\MaxiShop.Domain.dll
+C:\Users\janik\source\repos\maxishop\MaxiShop.Domain\obj\Debug\net8.0\refint\MaxiShop.Domain.dll
+C:\Users\janik\source\repos\maxishop\MaxiShop.Domain\obj\Debug\net8.0\MaxiShop.Domain.pdb
+C:\Users\janik\source\repos\maxishop\MaxiShop.Domain\obj\Debug\net8.0\ref\MaxiShop.Domain.dll
